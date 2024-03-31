@@ -36,6 +36,9 @@ Here are some ideas to get you started:-->
 ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-0066CC?style=flat-square&logo=Cadence&logoColor=white)
 <img src="https://simpleicons.org/icons/github.svg" width="30" height="30"> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+### Resume:
+[My Resume](https://github.com/bhavanarao3/resume/blob/main/Bhavana%20Resume%20Intel%20LLM.pdf)
+
 
 
 
