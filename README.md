@@ -15,5 +15,27 @@ Here are some ideas to get you started:-->
 
 🚀 Designed and developed a variety of projects in the field of control system, perception, path planning and machine learning.
 
-📫 Eager to connect with fellow tech enthusiasts and collaborators. Reach out to me at bhavana3@umd.edu for project collaborations, research discussions, or just to say hi!
+📫 Reach out to me at bhavana3@umd.edu
+
+
+
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat-square&logo=SolidWorks&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-0681D8?style=flat-square&logo=Autodesk&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-0066CC?style=flat-square&logo=Cadence&logoColor=white)
+<img src="https://simpleicons.org/icons/github.svg" width="30" height="30"> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
 
