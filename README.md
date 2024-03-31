@@ -6,6 +6,7 @@
 Here are some ideas to get you started:-->
 
 🎓 Pursuing Master's in Robotics from the University of Maryland, College Park.
+
 🔬 Working in the Maryland Robotics Center to track individual fish trajectories and quantify behavioral aspects employing Computer Vision and Machine Learning techniques.
 📚 Authored publications in prestigious journals and conferences such as IEEE, IAC, and IJERT, contributing novel insights into robotics applications in space exploration and sustainable aquaculture.
 🛠️ Hands-on experience with a diverse set of programming languages and tools, including Python, C++, MATLAB, ROS, Gazebo, and Virtuoso, underlining my versatile skill set in software development and system design.
